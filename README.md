@@ -1,6 +1,6 @@
 # web-proxy-script
 
-A minimalist, private web proxy script using PHP.
+A minimalist, private web proxy script written in PHP code.
 
 ## License
 
