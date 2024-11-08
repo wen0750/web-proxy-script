@@ -8,7 +8,7 @@ To run the project locally, you need to have PHP installed on your machine. The 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/HomeDev68/web-proxy-script.git
+   git clone https://github.com/heiswayi/web-proxy-script.git
    cd web-proxy-script
    ```
 
