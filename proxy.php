@@ -3,6 +3,7 @@
 // Private web proxy script by Heiswayi Nrird (https://heiswayi.nrird.com)
 // Released under MIT license
 // Free Software should work like this: whatever you take for free, you must give back for free.
+
 if (!function_exists("gzcompress")) die ("This proxy requires PHP's zlib extension. Please install/enable it on your server and try again.");
 if (!function_exists("curl_init")) die ("This proxy requires PHP's cURL extension. Please install/enable it on your server and try again.");
 
